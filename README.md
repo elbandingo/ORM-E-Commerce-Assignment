@@ -1,5 +1,5 @@
 # ORM E-Commerce Challenge
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 ## Description    
 This project was created using Node.js with Sequelize, MySQL2, and dotenv. The project is a demonstration of using sequelize to apply CRUD methodology to a functioning ecommerce database. Routes include PUT,GET,POST,DELETE. This project serves as a functioning backend application.
 ## Table of Contents:
