@@ -12,7 +12,8 @@ This project was created using Node.js with Sequelize, MySQL2, and dotenv. The p
 ### Installation:
 Download or clone the files, and open in VSCode. Within a terminal, type npm i to install the dependencies. Once installed, you can seed the database by typing npm run seed. once that is complete, you can then type npm start to run the database. Once it is running, you can open insomnia to test all routes
 ### Usage
-![usage tutorial](assets/images/)
+![usage tutorial]
+https://drive.google.com/file/d/1UqpRiYz3jvpRXsyM9G1jW6IcVZW4ujhj/view
 ### License
 This project is licensed with:
 GPL-3.0
